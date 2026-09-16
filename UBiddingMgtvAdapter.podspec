@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiddingMgtvAdapter'
-  s.version          = '3.6.3.20260903.0'
+  s.version          = '3.6.4.20260912.0'
   s.summary          = 'UBiX聚合Saas SDK 芒果广告联盟(MgtvInteractiveMediaAds) Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'UBiX' => 'sdk@ubixai.com' }
@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
    s.vendored_frameworks = 'UBiddingMgtvAdapter.xcframework'
 
   s.dependency 'UBiddingAdSDK'
-  s.dependency 'UBiXMMgAdSDK','3.6.3.20260903'
+  s.dependency 'UBiXMMgAdSDK','3.6.4.20260912'
 end
