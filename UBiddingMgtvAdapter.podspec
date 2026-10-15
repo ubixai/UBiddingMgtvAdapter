@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiddingMgtvAdapter'
-  s.version          = '3.6.6.20261014.0.0'
+  s.version          = '3.6.6.20261014.0.1'
   s.summary          = 'UBiX聚合Saas SDK 芒果广告联盟(MgtvInteractiveMediaAds) Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'UBiX' => 'sdk@ubixai.com' }
